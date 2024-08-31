@@ -21,10 +21,13 @@ The escalating impact of climate change on our environment and lives has spurred
 
 Figure 1 shows a schematic diagram of the methodology.
 
-<img title="" src="methodology.png" alt="">
+<img title="Visual Representation of The Methodology" src="methodology.png" alt="">
 
-<img title="" src="Hybrid Final.drawio.png" alt="">
+Figure - 01: Visual Representation of The Methodolog
 
+<img title="Hybrid BERT + BiLSTM + CNN Model" src="Hybrid Final.drawio.png" alt="">
+
+Figure - 02: Hybrid BERT + BiLSTM + CNN Model
 
 ## Cite this work
 If you find this repository helpful in your work please cite the following
