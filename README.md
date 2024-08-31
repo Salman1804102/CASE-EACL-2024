@@ -21,7 +21,7 @@ The escalating impact of climate change on our environment and lives has spurred
 
 Figure 1 shows a schematic diagram of the methodology.
 
-<img title="" src="CASE (6) (1).png" alt="">
+<img title="" src="methodology.png" alt="">
 
 <img title="" src="Hybrid Final.drawio.png" alt="">
 
